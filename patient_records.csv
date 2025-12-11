@@ -1,0 +1,68 @@
+Date,Name,Age,Gender,Contact,Selected_Symptoms,Predicted_Disease,Blood Group
+2025-10-13 22:19:38,navya,15,Female,794561213,"Fever, Vomiting",Hepatitis C,
+2025-10-13 22:20:43,navya,15,Female,794561213,"Fever, Vomiting",Hepatitis C,
+2025-10-13 22:21:21,navya,15,Female,794561213,"Fever, Vomiting",Hepatitis C,
+2025-10-13 22:26:58,k,9,Female,7894561230,"Fever, Vomiting",Hepatitis C,
+2025-10-13 22:36:18,k,9,Female,7894561230,"Headache, Dizziness",Vertigo,
+2025-10-13 22:40:25,xxxxx,15,Female,7894561230,"Headache, Dizziness",Vertigo,
+2025-10-13 22:41:04,xxxxx,21,Female,7894561230,"Headache, Dizziness",Vertigo,
+2025-10-13 22:42:36,xxxxx,21,Female,xxxxxxxxxx,"Headache, Dizziness",Vertigo,
+2025-10-13 22:43:43,xxxxx,21,Female,xxxxxxxxxx,"Headache, Dizziness",Vertigo,
+2025-10-13 22:44:24,xxxxx,21,Female,xxxxxxxxxx,"Fever, Headache, Vomiting",Dengue,
+2025-10-14 13:05:43,m,7,Female,895621,"Fever, Vomiting",Hepatitis C,
+2025-10-14 13:56:11,k,7,Female,89754213,"Fever, Vomiting",Hepatitis C,
+2025-10-21 12:59:45,k,20,Female,897452130,Headache,Vertigo,
+2025-10-21 13:05:00,k,20,Female,879452130,"Fever, Headache, Vomiting",Dengue,
+2025-10-21 18:37:41,k,20,Female,879452130,"Fever, Headache, Vomiting",Dengue,
+2025-10-21 18:37:51,k,20,Female,879452130,"Fever, Headache, Vomiting",Dengue,
+2025-10-21 18:38:08,k,20,Female,879452130,"Fever, Headache, Vomiting",Dengue,
+2025-10-21 18:41:03,k,20,Female,879452130,"Fever, Headache, Vomiting",Dengue,A+
+2025-10-21 18:41:11,k,20,Female,879452130,"Fever, Headache, Vomiting",Dengue,Select
+2025-10-21 18:50:54,k,20,Female,,"Fever, Headache, Vomiting",Dengue,Select
+2025-10-21 18:51:43,k,20,Female,,"Fever, Headache, Vomiting",Dengue,Select
+2025-10-21 18:51:48,k,20,Female,,"Fever, Headache, Vomiting",Dengue,Select
+2025-10-21 18:51:57,k,20,Female,,"Fever, Headache, Vomiting",Dengue,Select
+2025-10-21 18:52:18,k,20,Female,,"Fever, Headache, Vomiting",Dengue,Select
+2025-10-21 18:59:38,k,20,Female,89754213,"Fever, Vomiting",Hepatitis C,Select
+2025-10-21 18:59:48,k,20,Female,,"Fever, Vomiting",Hepatitis C,Select
+2025-10-21 19:00:31,k,20,Female,89754213,"Fever, Vomiting",Hepatitis C,Select
+2025-10-21 19:01:45,k,20,Female,89754213,"Fever, Vomiting",Hepatitis C,
+2025-10-21 19:01:57,k,20,Female,89754213,"Fever, Vomiting",Hepatitis C,A+
+2025-10-22 10:07:56,K navya,20,Female,87952310,"Vomiting, Muscle pain",Varicose Veins,A+
+2025-10-22 10:10:22,K navya,20,Female,87952310,"Skin rash, Vomiting",Varicose Veins,A+
+2025-10-22 10:13:17,K navya,20,Female,87952310,"Skin rash, Fever",Chickenpox,A+
+2025-10-22 10:47:56,K navya,20,Female,87952310,"Itching, Skin rash, Red spots over body, Puffy face",Drug Reaction,A+
+2025-10-22 10:49:01,K navya,20,Female,87952310,"Depression, Weight gain, Loss of balance",Hypothyroidism,A+
+2025-10-22 10:49:05,K navya,20,Female,87952310,"Depression, Weight gain, Loss of balance, Fatigue",Hypothyroidism,A+
+2025-10-22 11:10:39,K navya,20,Female,87952310,"Depression, Weight gain, Fatigue",Hypothyroidism,A+
+2025-10-22 11:16:53,K navya,20,Female,87952310,"Headache, Muscle pain, Depression, Weight gain, Joint pain",AIDS,A+
+2025-10-22 11:17:00,K navya,20,Female,87952310,"Headache, Muscle pain, Depression, Weight gain, Joint pain, Blackheads",AIDS,A+
+2025-10-22 11:17:57,K navya,20,Female,87952310,"Headache, Muscle pain, Weight gain",Varicose Veins,A+
+2025-10-22 11:21:35,K navya,20,Female,87952310,"Runny nose, Weight gain, Chest pain",Varicose Veins,A+
+2025-10-22 11:23:36,K navya,20,Female,87952310,"Fever, Headache, Muscle pain",Dengue,A+
+2025-10-22 11:32:10,K navya,20,Female,87952310,"Chest pain, Loss of balance, Night sweats",Varicose Veins,A+
+2025-10-22 11:47:49,K navya,20,Female,87952310,"Fever, Chest pain",Varicose Veins,A+
+2025-10-22 11:50:22,siri,20,Female,87952310,"Dizziness, Unsteadiness, Yellow eyes",Vertigo,A+
+2025-10-22 11:55:06,Akshitha,20,Female,87952310,"Headache, Depression, Weight gain",Hypothyroidism,
+2025-10-22 12:00:06,Akshitha,20,Male,87952310,"Headache, Congestion, Depression",Vertigo,
+2025-10-22 12:03:27,Akshitha,20,Male,87952310,"Fever, Chest pain, Loss of balance, Yellow urine",Chronic Cholestasis,
+2025-10-22 12:05:38,Akshitha,20,Male,87952310,"Fever, Vomiting, Indigestion",Peptic Ulcer Disease,
+2025-10-22 12:08:56,Akshitha,20,Male,87952310,"Fever, Vomiting, Runny nose",Hepatitis C,
+2025-10-22 12:14:50,Akshitha,20,Male,87952310,"Fever, Vomiting",Hepatitis C,
+2025-10-22 12:15:08,Akshitha,20,Male,87952310,Fever,Varicose Veins,
+2025-10-22 12:20:47,Akshitha,20,Male,87952310,"Vomiting, Chest pain",Varicose Veins,
+2025-10-22 13:36:05,Akshitha,20,Male,87952310,"Fever, Vomiting",Hepatitis C,
+2025-10-22 13:40:58,Akshitha,20,Male,87952310,"Fever, Headache, Muscle pain, Sneezing",Dengue,
+2025-10-22 14:00:24,Akshitha,20,Male,87952310,"Fever, Headache",Dengue,
+2025-10-22 14:00:57,Akshitha,20,Male,87952310,"Fever, Headache, Sneezing",Dengue,
+2025-10-22 14:40:29,Akshitha,20,Male,87952310,"Headache, Vomiting",Vertigo,
+2025-10-22 14:41:16,preaveen,20,Male,87952310,"Headache, Vomiting",Vertigo,
+2025-10-22 14:41:46,preaveen,20,Male,87952310,"Headache, Vomiting, Sneezing, Heartburn",Vertigo,
+2025-10-22 14:42:11,preaveen,20,Male,87952310,"Headache, Vomiting, Sneezing, Heartburn, Yellow eyes, Bloody stool",Chronic Cholestasis,
+2025-10-22 14:45:04,preaveen,20,Male,87952310,"Fever, Redness of eyes, Puffy face",Varicose Veins,
+2025-10-22 14:51:50,xxx,20,Male,87952310,"Fever, Headache, Vomiting",Dengue,
+2025-10-22 23:55:11,xxxx,20,Female,1234567890,"Headache, Dizziness",Vertigo,A+
+2025-10-23 00:12:46,x,1,Female,,"Headache, Dizziness",Vertigo,
+2025-10-25 13:34:01,k,25,Female,87956231,"Fever, Vomiting",Hepatitis C,A+
+2025-11-12 20:53:13,abhi,17,Male,,"Skin rash, Headache",Varicose Veins,
+2025-11-13 14:43:15,k koushik reddy,6,Female,,"Swollen legs, Runny nose, Enlarged thyroid",Varicose Veins,
